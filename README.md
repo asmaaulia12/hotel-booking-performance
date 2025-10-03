@@ -171,6 +171,12 @@ Rating yang diberikan oleh customer untuk masing-masing hotel didominasi penilai
 ![Dashboard Hotel Github_2](https://github.com/user-attachments/assets/6cac2142-7813-4ec5-be2b-3a4aa4f8df70)
 
 ## Rekomendasi
+Berdasarkan hasil Exploratory Data Analysis (EDA) yang dilakukan, rekomendasi yang dapat diberikan, yaitu:
+1. **Perkuat segmen Corporate sebagai pasar utama**. Segmen Corporate memberikan kontribusi terbesar terhadap booking maupun revenue. Hotel sebaiknya memperluas program kerjasama dengan perusahaan, seperti paket meeting, business travel deal, atau membership khusus untuk klien korporasi.
+2. **Fokus pada kamar dengan kontribusi terbesar**. Studio Room dan Deluxe Room menjadi penyumbang revenue utama, sehingga strategi pricing, promosi, dan peningkatan fasilitas dapat difokuskan pada kedua tipe kamar ini. Sementara itu, Royal Suite yang masih rendah kontribusinya perlu didorong dengan strategi khusus, misalnya melalui campaign eksklusif atau bundling layanan premium.
+3. **Tingkatkan efektivitas channel booking**. Booking melalui Agoda, Booking.com, dan direct booking relatif seimbang. Hotel sebaiknya memanfaatkan Online Travel Agent (OTA) untuk menjangkau pasar luas, sembari memperkuat program loyalitas dan benefit tambahan pada direct booking agar margin keuntungan lebih optimal.
+4. **Manfaatkan metode pembayaran untuk program loyalitas**. Kartu kredit mencatat kontribusi revenue terbesar, sehingga dapat dimaksimalkan dengan kerja sama bank untuk program cashback, cicilan, atau poin reward. Sementara itu, metode transfer online dan cash tetap perlu dipertahankan untuk menjaga fleksibilitas bagi pelanggan.
+5. **Perkuat program membership**. Membership Platinum dan Gold mendominasi hampir seluruh booking, sehingga program loyalitas terbukti efektif. Hotel sebaiknya meningkatkan value membership melalui benefit tambahan seperti upgrade kamar gratis, akses lounge, atau early check-in, sekaligus mendorong non-member untuk bergabung.
 
 
 
